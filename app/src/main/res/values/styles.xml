@@ -15,6 +15,6 @@
 
     <style name="LightMode" parent="AppTheme">
         <item name="border">#111111</item>
-        <item name="bgcolor">#222222</item>
+        <item name="bgcolor">#ffffff</item>
     </style>
 </resources>
